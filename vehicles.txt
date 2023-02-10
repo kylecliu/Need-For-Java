@@ -1,0 +1,3 @@
+Motorcycle: Boost Speed (4), Maximum Fuel (100), Maximum Damage Sustainable (30)
+Car: Boost Speed (3), Maximum Fuel (120), Maximum Damage Sustainable (50)
+Garbage Truck: Boost Speed (2), Maximum Fuel (150), Maximum Damage Sustainable (100)
